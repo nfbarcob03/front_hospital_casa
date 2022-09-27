@@ -1,0 +1,3 @@
+from .pacienteSerializer import PacienteSerializer
+from .userSerializer import UserSerializer
+from .auxiliarSerializer import AuxiliarSerializer

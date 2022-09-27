@@ -1,0 +1,4 @@
+from .createPacienteView import CreatePacienteView
+from .detailPacienteView import DetailPacienteView
+from .crearAuxiliarView import CrearAuxiliarView
+from .pacienteView import PacienteView
